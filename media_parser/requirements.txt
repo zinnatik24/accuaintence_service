@@ -1,0 +1,14 @@
+requests
+pymysql
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+beautifulsoup4
+lxml
+flask
+pytest
+python-dotenv
+selenium
+webdriver_manager
